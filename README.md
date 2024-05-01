@@ -32,8 +32,8 @@ End the program.
 </br> 
 
 ## Program:
-### Developed By : GOKUL.M
-### Register Number:212222230037
+### Developed By : GOKULARAMANAN K
+### Register Number:212222230040
 </br>
 
 ### 1. Smoothing Filters
